@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { ThemeProvider} from './ThemeContext';
+import ThemeToggle from './ThemeToggle';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider>
+      <div style={{ 
+        backgroundColor: isDarkTheme ? '#333' : '#FFF', 
+        color: isDarkTheme ? '#FFF' : '#000', 
+        height: '100vh', 
+        display: 'flex', 
+        justifyContent: 'center', 
+        alignItems: 'center' 
+      }}>
+        <h1>Theme Switcher</h1>
+        <ThemeToggle />
+      </div>
+    </ThemeProvider>
   );
-}
+};
 
 export default App;
