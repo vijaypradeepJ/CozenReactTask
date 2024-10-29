@@ -1,6 +1,6 @@
 Task 1 Host Link -https://jovial-panda-ecd621.netlify.app
 <br>
-Task 2 Host Link - https://gregarious-sprite-4b8065.netlify.app/
+Task 2 Host Link - https://peaceful-tiramisu-a0900d.netlify.app
 <br>
 Task 3 Host Link -https://deluxe-babka-f59857.netlify.app/
 <br>
