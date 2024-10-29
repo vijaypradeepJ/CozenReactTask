@@ -11,6 +11,9 @@ Task 5 Host Link -https://sweet-dango-ea9941.netlify.app/
 Task 6 Host Link -https://astonishing-florentine-4af836.netlify.app
 <br>
 Task 7 Host Link -https://keen-pastelito-c4cf50.netlify.app
+<br>
+Task 8 Host Link -https://teal-tanuki-6e4098.netlify.app
+
 
 
 
