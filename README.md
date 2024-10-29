@@ -1,4 +1,4 @@
-Task 1 Host Link -https://ubiquitous-cranachan-24ec38.netlify.app
+Task 1 Host Link -https://jovial-panda-ecd621.netlify.app
 <br>
 Task 2 Host Link - https://gregarious-sprite-4b8065.netlify.app/
 <br>
