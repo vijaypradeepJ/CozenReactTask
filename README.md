@@ -7,6 +7,10 @@ Task 3 Host Link -https://deluxe-babka-f59857.netlify.app/
 Task 4 Host Link -https://melodious-cascaron-267b2f.netlify.app
 <br>
 Task 5 Host Link -https://sweet-dango-ea9941.netlify.app/
+<br>
+Task 6 Host Link -https://astonishing-florentine-4af836.netlify.app
+
+
 
 Task 14 Host Link - https://moonlit-beignet-efac9d.netlify.app
 <br>
